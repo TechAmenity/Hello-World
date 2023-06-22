@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+        <head>
+          <title>My travel wish list</title>
+        </head>
+        <body>
+          <h1>Countries I'd Love to Visit</h1>
+          <ul>
+            <li>
+              <img src="Eiffel tower.jpg" alt="Eiffel">
+              <p>Paris is a wonderful place, I actually love their accent and the Eiffel tower-OMG topnotch</p>
+            </li>
+            <li>
+              <img src="jerusalem.jpg" alt="jerusalem">
+              <p>Jerusalem is a wonderful city amd it's was one of the places mentioned in the bible, so would really love to visit</p>
+            </li>
+            <li>
+              <img src="Oxford.jpg" alt="Oxford">
+              <p>Oxford university is a prestigious university, is a dream university, even if i wasn't opportune to go there, I would really love to visit</p>
+            </li>
+            <li>
+              <img src="California Alabama.jpg" alt="Canada">
+              <p>California, I would love to go Alabama to to exlore space x and NASA</p>
+            </li>
+            <li>
+              <img src="sweden.jpg" alt="sweden">
+              <p>Sweden is has been one country I've dreamt about studying at, so I would still love to visit </p>
+            </li>
+          </ul>
+        </body>
+        </html>
