@@ -18,6 +18,16 @@
             <li>
               <img src="Oxford.jpg" alt="Oxford">
               <p>Oxford university is a prestigious university, is a dream university, even if i wasn't opportune to go there, I would really love to visit</p>
+                <style>
+                p{
+                  color: purple;
+                }
+                h1{
+                  color:#332424;
+              
+                }
+                
+              </style>
             </li>
             <li>
               <img src="California Alabama.jpg" alt="Canada">
