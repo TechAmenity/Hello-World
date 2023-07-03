@@ -2,6 +2,18 @@
 <html lang="en">
     <html>
         <head>
+          <style>
+            body{
+              Background-color: black;
+            }
+            img{
+              width: 200p;
+              height: 150px;
+            }
+            h1{
+              background-color: white;
+            }
+          </style>
           <title>My travel wish list</title>
         </head>
         <body>
@@ -13,12 +25,8 @@
             </li>
             <li>
               <img src="jerusalem.jpg" alt="jerusalem">
-              <p>Jerusalem is a wonderful city amd it's was one of the places mentioned in the bible, so would really love to visit</p>
-            </li>
-            <li>
-              <img src="Oxford.jpg" alt="Oxford">
-              <p>Oxford university is a prestigious university, is a dream university, even if i wasn't opportune to go there, I would really love to visit</p>
-                <style>
+              <p>Jerusalem is a wonderful city and it's was one of the places mentioned in the bible, So I would really love to visit</p>
+              <style>
                 p{
                   color: purple;
                 }
@@ -30,12 +38,16 @@
               </style>
             </li>
             <li>
+              <img src="Oxford.jpg" alt="Oxford">
+              <p>Oxford university is a prestigious university, is one of my dream universities, even if i wasn't opportune to go there, I would really love to visit</p>
+            </li>
+            <li>
               <img src="California Alabama.jpg" alt="Canada">
-              <p>California, I would love to go Alabama to to exlore space x and NASA</p>
+              <p>California: I would love to go to Alabama to exlore space x and NASA</p>
             </li>
             <li>
               <img src="sweden.jpg" alt="sweden">
-              <p>Sweden is has been one country I've dreamt about studying at, so I would still love to visit </p>
+              <p>Sweden: has been one country I've dreamt about studying at, so I would still love to visit </p>
             </li>
           </ul>
         </body>
