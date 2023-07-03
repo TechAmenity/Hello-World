@@ -4,8 +4,15 @@
     <title>My bio</title>
 </head>
 <body>
+    <style>
+    body{
+    background-color: black
+    }
    <h1><em>My name is Ochigbo Amen</em></h1> 
-   <p><em></em>I am a young aspirer that is very open to new things and changes. I am sixteen years old, I also love exploring new things. I also love meeting new people with beautiful mentalities and perspectives, <br>I would love to study economics at the university because I want to be a tech entrepreneur, <br>I like singing and sometimes dancing, <br> My favorite food is fried rice or jollof, <br>I like when am happy and at peace; I don't like it when someone is not nice, <br> my favorite color is purple, I like nice accessories, and <br>I also like having and making my own money, I like learning new things, I love <b>excellence</b>, and I love Tech!</em>
+   <p><em></em>I am a young aspirer that is very open to new things and changes. I am sixteen years old, I also love exploring new things. 
+I also love meeting new people with beautiful mentalities and perspectives, <br>I would love to study economics at the university because I want to be a tech entrepreneur,
+<br>I like singing and sometimes dancing, <br> My favorite food is fried rice or jollof, <br>I like when am happy and at peace; I don't like it when someone is not nice,
+<br> my favorite color is purple, I like nice accessories, and <br>I also like having and making my own money, I like learning new things, I love <b>excellence</b>, and I love Tech!</em>
       </p>
 </body>
 </html>
