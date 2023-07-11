@@ -1,0 +1,19 @@
+<style>
+            body{
+              Background-color: black;
+            }
+            img{
+              width: 200p;
+              height: 150px;
+            }
+            h1{
+              background-color: white;
+            }
+          p{
+                  color: purple;
+                }
+                h1{
+                  color:#332424;
+              
+                }
+          </style>
